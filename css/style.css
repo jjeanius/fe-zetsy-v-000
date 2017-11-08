@@ -64,24 +64,6 @@ max-width: 100%;
     padding: 0 45px 20px;
 }
 
-.col-1 {
-	float:left;
-	width: 23%;
-  }
-
-.col-2 {
-	float:left;
-	width: 46%
-  }
-
- .col-3 {
-	float:left;
-	width: 71%;
-  }
-
-.col-4 {
-  }
-
 .clearfix:after {
   content: ".";
   display: block;
